@@ -1,5 +1,5 @@
 <?php
 
-	echo "UOOOOOOOOOOOOOOOOOOOL <strong>serio</strong>";
+	echo "VAMO <strong>serio</strong>";
 
 ?>
